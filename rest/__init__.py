@@ -1,0 +1,2 @@
+"""Ejemplo REST del taller."""
+
